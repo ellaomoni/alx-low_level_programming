@@ -1,2 +1,1 @@
-#!/bin/bash
-echo"file doucumentation on debugging"
+echo "Documentation on Debugging"
